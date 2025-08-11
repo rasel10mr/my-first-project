@@ -20,6 +20,6 @@ Skilled in **Android front-end** & **backend API development**, I focus on creat
 
 
   ## 📫 Connect With Me
-  **GitHub:** [github.com/raselmr]
+  **GitHub:** github.com/rasel10mr
   **Email:** raatrasel@gmail.com
   
